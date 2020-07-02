@@ -6,6 +6,16 @@
 	font-family: 'Dosis', sans-serif;
 }
 
+#homepage-container {
+	display: flex;
+	overflow: hidden;
+	height: 100vh;
+	justify-content: center;
+	align-items: center;
+	background-color: #4caee3;
+	align-content: center;
+}
+
 #homepage-container .icon-container {
 	margin-left: 4rem;
 }
@@ -17,12 +27,4 @@
 	padding-right: 3.6rem;
 }
 
-#homepage-container {
-	display: flex;
-	overflow: hidden;
-	height: 100vh;
-	justify-content: center;
-	align-items: center;
-	background-color: #4caee3;
-	align-content: center;
-}
+
