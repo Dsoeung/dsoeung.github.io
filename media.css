@@ -1,0 +1,32 @@
+/* Custom resolution */
+@media only screen and (min-width: 320px) {
+    .skill-container h1 {
+        font-size: 2.5rem;
+   }
+    .skill-container p {
+        font-size: 1.7rem;
+   }
+    .prev, .next {
+        display: none;
+   }
+    li {
+        font-size: 1.5rem;
+        padding: 0.5rem;
+   }
+    .skill-container {
+        text-align: center;
+   }
+    .skill-icon {
+        height: 120px;
+        width: 80px;
+   }
+    #skills-icons {
+        padding: 0.2rem;
+   }
+    .project-button {
+        margin-left: 4rem;
+   }
+    .footer-links ul li {
+        font-size: 1.4rem;
+   }
+}
