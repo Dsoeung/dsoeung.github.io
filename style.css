@@ -16,6 +16,14 @@
 	align-content: center;
 }
 
+.landing-page-text,
+.welcome-text,
+.secondary-text {
+	color: #ffffff;
+	text-align: center;
+	margin: 2rem;
+}
+
 #homepage-container .icon-container {
 	margin-left: 4rem;
 }
