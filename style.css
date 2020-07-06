@@ -24,6 +24,10 @@
 	margin: 2rem;
 }
 
+.secondary-text h3{
+	font-size: 2rem;
+}
+
 #homepage-container .icon-container {
 	margin-left: 4rem;
 }
@@ -34,6 +38,8 @@
 	margin: 3.5rem 2rem 0 2rem;
 	padding-right: 3.6rem;
 }
+
+
 
 .skill-container {
 	color: #000000;
