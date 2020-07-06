@@ -24,8 +24,8 @@
 	margin: 2rem;
 }
 
-.secondary-text h3{
-	font-size: 24px;
+h3.secondary-text {
+    font-size: 24px;
 }
 
 #homepage-container .icon-container {
