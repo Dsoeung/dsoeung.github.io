@@ -6,6 +6,7 @@
     .skill-container p {
         font-size: 1.7rem;
    }
+   
     .prev, .next {
         display: none;
    }
@@ -19,7 +20,14 @@
     .skill-icon {
         height: 120px;
         width: 80px;
+		padding: 0.2rem;
+		margin-bottom: 0.5rem;
    }
+	.skill-icon img {
+		height: 75px;
+		width: 61px;
+	}
+
     #skills-icons {
         padding: 0.2rem;
    }

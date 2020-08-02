@@ -55,12 +55,9 @@ h3.secondary-text {
 	padding-top: 3rem;
 }
 
-.skill-icon {
-	padding: 0.2rem;
-	margin-bottom: 0.5rem;
+#skills-icon .skill-icon {
+	height: 150px;
+	width: 280px;
+	text-align: center;
 }
-	
-.skill-icon img {
-	height: 75px;
-	width: 61px;
-}
+
