@@ -42,9 +42,7 @@ h3.secondary-text {
 
 
 
-.skill-container {
-	color: #000000;
-}
+
 
 .skill-container h1 {
 	font-size: 3rem;
@@ -55,9 +53,26 @@ h3.secondary-text {
 	padding-top: 3rem;
 }
 
-#skills-icon .skill-icon {
+.skill-container {
+	color: #000000;
+}
+
+.skill-icon {
 	height: 150px;
 	width: 280px;
 	text-align: center;
+	float: left;
+	padding: 5px;
+
 }
 
+.skills-icons {
+	content: "";
+	clear: both;
+	display: table;
+}
+
+figcaption {
+	padding-bottom: 3rem;
+	
+}
